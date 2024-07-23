@@ -1,0 +1,1 @@
+select birth_city from players where first_name = 'Jackie' and last_name ='Robinson';

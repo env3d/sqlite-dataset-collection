@@ -1,0 +1,1 @@
+select count(*) from players where debut is NULL;

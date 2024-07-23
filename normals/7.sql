@@ -1,0 +1,1 @@
+select round(avg("0m"),2) from normals where longitude between -0.5 and 0.5;

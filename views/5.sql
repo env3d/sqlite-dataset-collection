@@ -1,0 +1,1 @@
+select contrast as 'Maximum Contrast' from views order by contrast desc limit 1;

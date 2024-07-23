@@ -1,0 +1,1 @@
+select english_title from views order by contrast asc limit 5;
