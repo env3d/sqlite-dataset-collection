@@ -5,16 +5,16 @@ Collection of educational sqlite exericses
 
 ## Single table SQL
 
-  - cyberchase
-  - views
-  - normals
-  - players
+  - [cyberchase](cyberchase/README.md)
+  - [views](views/README.md)
+  - [normals](normals/README.md)
+  - [players](players/README.md)
 
 ## Multi-tables SQL
 
-  - packages (best use as in-class demo)
-  - dese
-  - moneyball
+  - [packages (best use as in-class demo)](packages/README.md)
+  - [dese](dese/README.md)
+  - [moneyball](moneyball/README.md)
 
 # Attribution
 
