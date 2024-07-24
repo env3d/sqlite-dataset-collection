@@ -1,0 +1,1 @@
+ select schools.name, schools.city from schools inner join districts on schools.district_id = districts.id where districts.name = 'Cambridge';

@@ -1,0 +1,1 @@
+select city, count(*) from schools where type='Public School' group by city order by count(*) desc, city asc limit 10;

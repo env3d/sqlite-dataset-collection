@@ -1,0 +1,1 @@
+select districts.name, expenditures.pupils from expenditures inner join districts on expenditures.district_id = districts.id order by districts.name asc;
