@@ -9,6 +9,7 @@ Collection of educational sqlite exericses
   - [views](views/README.md)
   - [normals](normals/README.md)
   - [players](players/README.md)
+  - [mystery (use as in-class exercise)](mystery/README.md)
 
 ## Multi-tables SQL
 
@@ -24,6 +25,8 @@ Sources for each exercise:
  - views: https://cs50.harvard.edu/sql/2024/psets/0/views/
  - normals: https://cs50.harvard.edu/sql/2024/psets/0/normals/
  - players: https://cs50.harvard.edu/sql/2024/psets/0/players/ 
+
+ - mystery: https://github.com/NUKnightLab/sql-mysteries 
 
  - packages: https://cs50.harvard.edu/sql/2024/psets/1/packages/ 
  - dese: https://cs50.harvard.edu/sql/2024/psets/1/dese/ 
