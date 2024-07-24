@@ -20,6 +20,7 @@ Collection of educational sqlite exericses
 ## DDL
 
   - [dont-panic](dont-panic/README.md)
+  - [meteorites](meteorites/README.md)
 
 # Attribution
 
@@ -34,5 +35,6 @@ Sources for each exercise:
   - dese: https://cs50.harvard.edu/sql/2024/psets/1/dese/ 
   - moneyball: https://cs50.harvard.edu/sql/2024/psets/1/moneyball/ 
   - dont-panic: heavily modified from https://cs50.harvard.edu/sql/2024/psets/3/dont-panic/
+  - meteorites: https://cs50.harvard.edu/sql/2024/psets/3/meteorites/ 
 
 
