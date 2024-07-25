@@ -16,6 +16,7 @@ Collection of educational sqlite exericses
   - [packages (best use as in-class demo)](packages/README.md)
   - [dese](dese/README.md)
   - [moneyball](moneyball/README.md)
+  - [pokedex](pokedex/README.md)
 
 ## DDL
 
@@ -36,5 +37,6 @@ Sources for each exercise:
   - moneyball: https://cs50.harvard.edu/sql/2024/psets/1/moneyball/ 
   - dont-panic: heavily modified from https://cs50.harvard.edu/sql/2024/psets/3/dont-panic/
   - meteorites: https://cs50.harvard.edu/sql/2024/psets/3/meteorites/ 
+  - pokedex: database extracted from https://github.com/veekun/pokedex 
 
 
